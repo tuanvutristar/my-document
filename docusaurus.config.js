@@ -138,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tristar Electrical. Built with Docusaurus and Ignition.`,
       },
       prism: {
         theme: prismThemes.github,
