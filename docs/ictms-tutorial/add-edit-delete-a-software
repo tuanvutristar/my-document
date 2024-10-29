@@ -1,0 +1,26 @@
+---
+sidebar_position: 4
+---
+
+# Add, edit, and delete a software
+
+## Add a software
+
+1. In the left-hand navigation bar, select the **Software** tab.
+2. Click the **Add** button.
+3. Fill in the required software details.
+4. Click **Publish** to save and add the software.
+
+## Edit a software
+
+1. In the left-hand navigation bar, go to the **Software** tab.
+2. Double-click on the row of the software you want to edit.
+3. Make the necessary changes to the software details.
+4. Click **Publish** to save your changes.
+
+## Delete a software
+
+1. In the left-hand navigation bar, select the **Software** tab.
+2. Double-click on the row of the software you want to delete.
+3. Click the **Delete** button in the top-right corner of the screen.
+4. In the confirmation popup, click **Confirm** to finalize the deletion.

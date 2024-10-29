@@ -1,0 +1,26 @@
+---
+sidebar_position: 7
+---
+
+# Add, edit, and delete a supplier contact
+
+## Add a supplier contact
+
+1. In the left-hand navigation bar, select the **Suppliers/Supplier Contact** tab.
+2. Click the **Add** button.
+3. Fill in the required Supplier Contact details.
+4. Click **Publish** to save and add the Supplier Contact.
+
+## Edit a supplier contact
+
+1. In the left-hand navigation bar, go to the **Suppliers/Supplier Contact** tab.
+2. Double-click on the row of the Supplier Contact you want to edit.
+3. Make the necessary changes to the Supplier Contact details.
+4. Click **Publish** to save your changes.
+
+## Delete a supplier contact
+
+1. In the left-hand navigation bar, select the **Suppliers/Supplier Contact** tab.
+2. Double-click on the row of the Supplier Contact you want to delete.
+3. Click the **Delete** button in the top-right corner of the screen.
+4. In the confirmation popup, click **Confirm** to finalize the deletion.

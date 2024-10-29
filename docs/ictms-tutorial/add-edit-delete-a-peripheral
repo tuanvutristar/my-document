@@ -1,0 +1,26 @@
+---
+sidebar_position: 3
+---
+
+# Add, edit, and delete a peripheral
+
+## Add a peripheral
+
+1. In the left-hand navigation bar, select the **Peripherals** tab.
+2. Click the **Add** button.
+3. Fill in the required user details.
+4. Click **Publish** to save and add the peripheral.
+
+## Edit a peripheral
+
+1. In the left-hand navigation bar, go to the **Peripherals** tab.
+2. Double-click on the row of the peripheral you want to edit.
+3. Make the necessary changes to the peripheral details.
+4. Click **Publish** to save your changes.
+
+## Delete a peripheral
+
+1. In the left-hand navigation bar, select the **Peripherals** tab.
+2. Double-click on the row of the peripheral you want to delete.
+3. Click the **Delete** button in the top-right corner of the screen.
+4. In the confirmation popup, click **Confirm** to finalize the deletion.

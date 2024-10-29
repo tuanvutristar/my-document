@@ -1,0 +1,26 @@
+---
+sidebar_position: 6
+---
+
+# Add, edit, and delete a supplier
+
+## Add a supplier
+
+1. In the left-hand navigation bar, select the **Suppliers/Supplier List** tab.
+2. Click the **Add** button.
+3. Fill in the required Supplier details.
+4. Click **Publish** to save and add the supplier.
+
+## Edit a supplier
+
+1. In the left-hand navigation bar, go to the **Suppliers/Supplier List** tab.
+2. Double-click on the row of the Supplier you want to edit.
+3. Make the necessary changes to the Supplier details.
+4. Click **Publish** to save your changes.
+
+## Delete a supplier
+
+1. In the left-hand navigation bar, select the **Suppliers/Supplier List** tab.
+2. Double-click on the row of the Supplier you want to delete.
+3. Click the **Delete** button in the top-right corner of the screen.
+4. In the confirmation popup, click **Confirm** to finalize the deletion.
